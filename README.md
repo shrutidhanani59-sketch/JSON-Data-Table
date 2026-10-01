@@ -80,6 +80,16 @@ A simple and responsive Employee Management System built using React.js, Bootstr
 
 📄 README.md
 
-## Imges
+## 📸 Imges
 
-!(ss1)[Screenshort1.png]
+
+![Screenshot 1](./Screenshot1.png)
+![Screenshot 1](./Screenshot2.png)
+![Screenshot 1](./Screenshot3.png)
+![Screenshot 1](./Screenshot4.png)
+![Screenshot 1](./Screenshot5.png)
+![Screenshot 1](./Screenshot6.png)
+
+## 📸 Video
+
+https://drive.google.com/file/d/1eoAuypJ6lUcmbtMn2IYydAPd8ubJqv4n/view?usp=sharing

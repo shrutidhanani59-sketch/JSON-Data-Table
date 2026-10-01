@@ -4,5 +4,6 @@
     box-sizing: border-box;
 }
 body {
-  background: linear-gradient(135deg, #eef2ff, #f8fafc);
+  background: linear-gradient(135deg, #e3e9fd, #f8fafc);
+  height: 100vh;
 }
